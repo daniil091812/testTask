@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+.container{
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: 43.7% 32.6%;
+    align-items: stretch;
+    justify-content: center;
+    background: linear-gradient(225deg, rgb(255, 255, 255), rgb(214, 214, 214) 100%);
+}
